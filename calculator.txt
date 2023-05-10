@@ -10,6 +10,6 @@ result = a + b
 z=a-b
 
 multi = a*b
-
+generator
 
 
